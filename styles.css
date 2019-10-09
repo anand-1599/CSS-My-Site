@@ -64,8 +64,10 @@ font-size: 1.25rem;
   margin-right: 30px;
   }
 .hotwings{
-    width: 25%;
+    width: 19%;
     float: right;
+	position: relative;
+	bottom:50px;
   }
 hr {
   border-style: dotted none none;
